@@ -1,6 +1,6 @@
 # Movie Ticket app with Animations- Flutter UI
 
-## [Watch it on YouTube]()
+## [Watch it on YouTube](https://www.youtube.com/watch?v=QOS1CDAQyMU)
 
 
 Movie Ticket app UI with animations using flutter,This project consist of three Screens. Home Screen and Movie Details Screen and Ticket Booking Screen. 
